@@ -34,7 +34,5 @@ Repository ini bertujuan untuk:
 - Menyediakan referensi implementasi nyata  
 - Menunjukkan penerapan teori NLP ke dalam solusi praktis  
 
-Jika kamu tertarik dengan NLP, AI, atau machine learning berbasis teks — repository ini bisa menjadi titik awal yang solid.  
-
 ---  
 📌 *More projects coming soon!*  
