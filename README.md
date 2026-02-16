@@ -1,21 +1,21 @@
 # 🚀 NLP Projects Repository  
 
-Repository ini berisi kumpulan proyek berbasis **Natural Language Processing (NLP)** yang mencakup berbagai pendekatan modern dalam pemrosesan dan pemodelan bahasa alami. Seluruh proyek dirancang untuk mengeksplorasi, mengimplementasikan, dan mengevaluasi teknik NLP dari tahap dasar hingga tingkat lanjut.  
+This repository contains a collection of **Natural Language Processing (NLP)** projects covering various modern approaches in natural language processing and modeling. All projects are designed to explore, implement, and evaluate NLP techniques from basic to advanced levels.
 
-## 🎯 Fokus Utama  
-Setiap proyek dalam repository ini berkaitan dengan satu atau lebih aspek berikut:  
+## 🎯 Main Focus  
+Each project in this repository relates to one or more of the following aspects:  
 
 - 🔹 **Text Preprocessing & Cleaning**  
-  Tokenization, normalization, stopword removal, stemming/lemmatization, dan text transformation.  
+  Tokenization, normalization, stopword removal, stemming/lemmatization, and text transformation.  
 
 - 🔹 **Text Representation**  
-  TF-IDF, Word Embeddings (Word2Vec, GloVe), serta contextual embeddings (BERT, Sentence Transformers, dll).  
+  TF-IDF, Word Embeddings (Word2Vec, GloVe), and contextual embeddings (BERT, Sentence Transformers, etc.).  
 
 - 🔹 **Deep Learning for NLP**  
-  Pemanfaatan arsitektur Transformer, LLM, dan fine-tuning model pre-trained untuk berbagai tugas NLP.  
+  Utilizing Transformer architectures, LLMs, and fine-tuning pre-trained models for various NLP tasks.  
 
 - 🔹 **NLP Tasks & Applications**  
-  Termasuk (namun tidak terbatas pada):  
+  Including (but not limited to):  
   - Text Classification  
   - Sentiment Analysis  
   - Named Entity Recognition (NER)  
@@ -25,14 +25,14 @@ Setiap proyek dalam repository ini berkaitan dengan satu atau lebih aspek beriku
   - Document Understanding  
 
 - 🔹 **AI & LLM Integration**  
-  Eksperimen dengan Large Language Models (LLM), prompt engineering, retrieval-augmented generation (RAG), dan AI-powered text processing.  
+  Experiments with Large Language Models (LLMs), prompt engineering, retrieval-augmented generation (RAG), and AI-powered text processing.  
 
-## 🧠 Tujuan Repository  
-Repository ini bertujuan untuk:  
-- Menjadi portofolio teknis di bidang NLP  
-- Mendokumentasikan eksperimen dan pembelajaran  
-- Menyediakan referensi implementasi nyata  
-- Menunjukkan penerapan teori NLP ke dalam solusi praktis  
+## 🧠 Repository Goals  
+This repository aims to:  
+- Serve as a technical portfolio in the NLP field  
+- Document experiments and learning progress  
+- Provide real-world implementation references  
+- Demonstrate the application of NLP theory into practical solutions  
 
 ---  
 📌 *More projects coming soon!*  
